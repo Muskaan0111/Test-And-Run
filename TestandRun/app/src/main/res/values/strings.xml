@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Test and Run</string>
+    <string name="textView2">0</string>
+    <string name="button_black">BLACK</string>
+    <string name="button_purple">PURPLE</string>
+    <string name="button_blue">BLUE</string>
+    <string name="button_pink">PINK</string>
+    <string name="button_count">COUNT</string>
+    <string name="button_reset">RESET</string>
+
+
+</resources>
